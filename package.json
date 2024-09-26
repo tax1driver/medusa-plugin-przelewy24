@@ -28,11 +28,11 @@
     "dev": "cross-env npm run build:server && medusa develop"
   },
   "dependencies": {
-    "@medusajs/admin": "^7.1.14",
+    "@medusajs/admin": "^7.1.16",
     "@medusajs/cache-inmemory": "latest",
-    "@medusajs/cache-redis": "^1.9.1",
+    "@medusajs/cache-redis": "^1.9.2",
     "@medusajs/event-bus-local": "latest",
-    "@medusajs/event-bus-redis": "^1.8.13",
+    "@medusajs/event-bus-redis": "^1.8.14",
     "@medusajs/file-local": "latest",
     "@tanstack/react-query": "4.22.0",
     "@tax1driver/node-przelewy24": "github:tax1driver/node-przelewy24",
