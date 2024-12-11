@@ -41,7 +41,7 @@
     "dotenv": "16.3.1",
     "express": "^4.17.2",
     "medusa-interfaces": "latest",
-    "prism-react-renderer": "^2.0.4",
+    "prism-react-renderer": "^2.4.1",
     "typeorm": "0.3.16"
   },
   "peerDependencies": {
